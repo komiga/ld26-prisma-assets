@@ -1,0 +1,9 @@
+104
+
+true,false,37,2
+
+trigger_timer_activate_1:2,0.2,,0.2,0.055,0.1,0.3,0.45,,,,,,,,,,,,,,,,-0.2099,-1,0.215,-0.615,,,,,,masterVolume,bitCrush,bitCrushSweep,waveType:35
+trigger_timer_activate_2:2,0.2,,0.2,0.055,0.1,0.3,0.505,,,,,,,,,,,,,,,,-0.2099,-1,0.215,-0.615,,,,,,masterVolume,bitCrush,bitCrushSweep,waveType:36
+trigger_timer_activate_3:2,0.2,,0.2,0.055,0.1,0.3,0.55,,,,,,,,,,,,,,,,-0.2099,-1,0.215,-0.615,,,,,,masterVolume,bitCrush,bitCrushSweep,waveType:37
+
+Default:-1>0.54>-1||0|1|false>-1||0|1|false>-1||2.916199166102741|0.4|false>-1||0|1|false>-1||0|1|false:2
