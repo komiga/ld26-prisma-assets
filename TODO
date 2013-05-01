@@ -1,0 +1,22 @@
+
+## world/1
+
+-	Channel right is one tile longer than channel left! Argh!
+
+## world/3
+
+-	This is an intro world, reduce the timer duration.
+(QAR)
+
+## world/7
+
+-	Move path to w1 down a bit? "Alright, there's nothing here, guess
+	I'd better move along."
+
+-	Merge with w0? Make a full playthrough change the state of w0
+	(secret path, change message, make spawn color invisible).
+(QAR)
+
+-	The message here doesn't seem to be making the player suspicious
+	enough. How could this be changed? Still want it to be very subtle.
+(QAR)
