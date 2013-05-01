@@ -3,6 +3,15 @@
 
 -	Channel right is one tile longer than channel left! Argh!
 
+## world/2
+
+-	Reverse switch positions? Players seem to always go right because
+	the left switch changes to the color of the right one.
+	Hmm. Want them to make that choice correctly, though. But it
+	contradicts the right path message in w6. Reverse both switch and
+	end trigger positions? I think so.
+(QAR)
+
 ## world/3
 
 -	This is an intro world, reduce the timer duration.
