@@ -1,0 +1,11 @@
+
+local D=Data
+local C=D.Color
+local TT=D.TriggerType
+
+local W=D.__iw
+
+local SP_X, SP_Y=33,33
+local SP_C=C.Cyan
+
+D.S_SP(W, SP_X,SP_Y, SP_C)
