@@ -6,7 +6,7 @@ local TT=D.TriggerType
 local W=D.__iw
 
 local SP_X, SP_Y=16,28
-local SP_C=C.Aqua
+local SP_C=C.Cyan
 
 local ED_X, ED_Y=16,10
 local ED_C=C.Red
